@@ -1,3 +1,3 @@
 # Practice
 
-<h1>Day 0</h1>
+<h3>Day 0</h3>
